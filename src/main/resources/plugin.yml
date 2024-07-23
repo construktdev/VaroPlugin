@@ -1,0 +1,14 @@
+name: VaroPlugin
+version: '${project.version}'
+main: de.construkter.varoplugin.VaroPlugin
+api-version: '1.21'
+
+commands:
+  start:
+    description: Startet die Varo Runde
+
+  hub:
+    description: Betrete die Lobby
+
+  lobby:
+    description: Betrete die Lobby
